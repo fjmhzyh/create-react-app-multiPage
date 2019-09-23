@@ -1,0 +1,47 @@
+
+.checkList{
+  position: absolute;
+  right: 16px;
+  color: #108ee9;
+  font-size: 12px;
+  .mui-icon{
+    font-size: 18px;
+  }
+}
+
+.cust-item{
+  padding: 0 15px;
+  border-bottom: 1PX solid #ddd;
+  .item-row{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+    .left{
+      
+    }
+    .right{
+
+    }
+  }
+}
+
+.btg-id{
+  color: #108ee9;
+  text-decoration: underline;
+}
+
+.am-tabs-tab-bar-wrap{
+  // position: fixed;
+  // top: 0;
+  // left: 0;
+  // right: 0;
+  // z-index: 100;
+}
+
+.am-list-content{
+  font-size: 14px !important;
+}
+
+.am-list-item .am-list-line .am-list-extra {
+  flex-basis: 60% !important;
+}

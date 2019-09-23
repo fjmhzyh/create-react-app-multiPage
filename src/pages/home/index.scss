@@ -1,0 +1,31 @@
+.home-company{
+  // border:1px solid blue;
+  padding: 10px;
+  .chart-block{
+    color: #2E8FF4;
+    font-size: 14px;
+    .chart-item{
+      display: inline-block;
+      width: 49%;
+      margin-right: 1%;
+    }
+  }
+  .under-line{
+    border-bottom: 1px solid #ccc;
+    padding: 5px 0;
+  }
+  .arrow-tip{
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border: 8px solid transparent;
+    border-left-color:#1890ff;
+    vertical-align: sub;
+  }
+}
+
+
+.table-link{
+  color: #2E8FF4;
+  text-decoration: underline;
+}

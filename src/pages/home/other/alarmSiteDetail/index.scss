@@ -1,0 +1,14 @@
+
+.ellipsis{
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 150px;
+}
+
+.detail{
+  color: #2E8FF4;
+  text-decoration: underline;
+  cursor: pointer;
+}
